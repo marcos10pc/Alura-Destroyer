@@ -40,6 +40,10 @@
           console.log("[DEBUG] Lesson Done!")
           })
 
+        setInterval(() => {
+            console.log("[DEBUG] Waiting 5 Seconds...");
+        }, 5000);
+        
         console.log("[DEBUG] Next Lesson...")
         next_lesson_button.click();
 
