@@ -41,11 +41,9 @@
           })
 
         setInterval(() => {
-            console.log("[DEBUG] Waiting 5 Seconds...");
-        }, 5000);
-        
-        console.log("[DEBUG] Next Lesson...")
-        next_lesson_button.click();
+            console.log("[DEBUG] Next Lesson...")
+            next_lesson_button.click();
+        }, 3000);
 
     } else {
         alert("Next Lesson Button not found :( are u sure that u are on the correct page?");
