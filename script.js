@@ -43,7 +43,7 @@
         setInterval(() => {
             console.log("[DEBUG] Next Lesson...")
             next_lesson_button.click();
-        }, 3000);
+        }, 1000);
 
     } else {
         alert("Next Lesson Button not found :( are u sure that u are on the correct page?");
