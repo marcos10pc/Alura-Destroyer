@@ -40,10 +40,12 @@
           console.log("[DEBUG] Lesson Done!")
           })
 
+        console.log("[DEBUG] Waiting 3 Seconds...");
+        
         setInterval(() => {
             console.log("[DEBUG] Next Lesson...")
             next_lesson_button.click();
-        }, 1000);
+        }, 3000);
 
     } else {
         alert("Next Lesson Button not found :( are u sure that u are on the correct page?");
