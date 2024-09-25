@@ -39,13 +39,8 @@
           }}).then(data => {
           console.log("[DEBUG] Lesson Done!")
           })
-
-        console.log("[DEBUG] Waiting 3 Seconds...");
         
-        setInterval(() => {
-            console.log("[DEBUG] Next Lesson...")
-            next_lesson_button.click();
-        }, 3000);
+        next_lesson_button.click();
 
     } else {
         alert("Next Lesson Button not found :( are u sure that u are on the correct page?");
