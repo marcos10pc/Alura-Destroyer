@@ -39,9 +39,8 @@
           }}).then(data => {
           console.log("[DEBUG] Lesson Done!")
           })
-        
-        next_lesson_button.click();
 
+        setTimeout(next_lesson_button.click(), 4000); // Modificar o tempo para 4 segundos
     } else {
         alert("Next Lesson Button not found :( are u sure that u are on the correct page?");
     }
