@@ -15,7 +15,7 @@
     console.log("--- ALURA DESTROYER BY marcos10pc ---");
 
     const water_mark = document.querySelector('.formattedText');
-    water_mark.innerHTML = 'Made by marcos10pc :P';
+    water_mark.innerHTML = 'sussy baka amongus';
 
     let cookies = document.cookie;
 
