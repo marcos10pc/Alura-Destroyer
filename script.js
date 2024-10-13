@@ -11,9 +11,6 @@
 
 (function() {
     'use strict';
-
-    console.log("--- ALURA DESTROYER BY marcos10pc ---");
-
     const water_mark = document.querySelector('.formattedText');
     water_mark.innerHTML = 'sussy baka amongus';
 
