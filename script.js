@@ -3,7 +3,7 @@
 // @namespace    https://cursos.alura.com.br/
 // @version      2024-09-23
 // @description  nuh uh i dont want to do alura nomore :sob:
-// @author       marcos10pc
+// @author       wwwwwwwwwww
 // @match        https://cursos.alura.com.br/course/*/task/*
 // @icon         https://i.imgur.com/gP1LZq9.png
 // @grant        none
