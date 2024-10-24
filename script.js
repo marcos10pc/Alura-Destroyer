@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Alura Destroyer
+// @name         Alura Destroyerhttps://
 // @namespace    https://cursos.alura.com.br/
 // @version      2024-09-23
 // @description  nuh uh i dont want to do alura nomore :sob:
